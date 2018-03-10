@@ -4,12 +4,13 @@ namespace _02_classes
 {
     public class PropertyPerson
     {
+        public string Name { get; set; }
+        public DateTime Birthdate { get; private set; }
+
         public PropertyPerson(DateTime birthdate)
         {
             Birthdate = birthdate;
         }
-
-        public DateTime Birthdate { get; private set; }
 
         public int Age
         {
