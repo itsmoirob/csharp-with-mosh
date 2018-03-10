@@ -7,11 +7,9 @@ namespace _02_classes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var customer = new Customer(1);
-            customer.Orders.Add(new Order());
-            customer.Orders.Add(new Order());
-
-            Console.WriteLine(customer.Orders.Count);
+            var person = new AccessModPerson();
+            person.SetBirthdate(new DateTime(1982, 2, 12));
+            Console.WriteLine(person.GetBirthdate());
         }
     }
 }
