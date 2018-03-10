@@ -7,9 +7,9 @@ namespace _02_classes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var person = new AccessModPerson();
-            person.SetBirthdate(new DateTime(1982, 2, 12));
-            Console.WriteLine(person.GetBirthdate());
+            var person = new PropertyPerson(new DateTime(1982, 2, 12));
+            Console.WriteLine(person.Age);
+
         }
     }
 }
