@@ -7,8 +7,9 @@ namespace _02_classes
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var person = new PropertyPerson(new DateTime(1982, 2, 12));
-            Console.WriteLine(person.Age);
+            var cookie = new HttpCookie();
+            cookie["name"] = "Robbie";
+            Console.WriteLine(cookie["name"]);
 
         }
     }
