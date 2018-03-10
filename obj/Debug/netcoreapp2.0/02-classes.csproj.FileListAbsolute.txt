@@ -1,0 +1,10 @@
+/home/robbie/Documents/mosh csharp/02-classes/bin/Debug/netcoreapp2.0/02-classes.deps.json
+/home/robbie/Documents/mosh csharp/02-classes/bin/Debug/netcoreapp2.0/02-classes.runtimeconfig.json
+/home/robbie/Documents/mosh csharp/02-classes/bin/Debug/netcoreapp2.0/02-classes.runtimeconfig.dev.json
+/home/robbie/Documents/mosh csharp/02-classes/bin/Debug/netcoreapp2.0/02-classes.dll
+/home/robbie/Documents/mosh csharp/02-classes/bin/Debug/netcoreapp2.0/02-classes.pdb
+/home/robbie/Documents/mosh csharp/02-classes/obj/Debug/netcoreapp2.0/02-classes.csproj.CoreCompileInputs.cache
+/home/robbie/Documents/mosh csharp/02-classes/obj/Debug/netcoreapp2.0/02-classes.AssemblyInfoInputs.cache
+/home/robbie/Documents/mosh csharp/02-classes/obj/Debug/netcoreapp2.0/02-classes.AssemblyInfo.cs
+/home/robbie/Documents/mosh csharp/02-classes/obj/Debug/netcoreapp2.0/02-classes.dll
+/home/robbie/Documents/mosh csharp/02-classes/obj/Debug/netcoreapp2.0/02-classes.pdb
